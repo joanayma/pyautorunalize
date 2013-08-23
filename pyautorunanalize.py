@@ -11,7 +11,7 @@
 	Autoruns is part of Sysinternals' suit and owns the copyright. Windows are trademark of Microsoft.
 	Licence: GPLv2
 
-	#Use this script at your own. No warraties nor 
+	#Use this script at your own.
 	This script is not inteded as a substitute for any antivirus. Is just a sanity check.
 	Individuals htat noncomplain the Virustotal or sysinternals terms or harms the antivirus
 	industry, are out of my resposability.
